@@ -1,0 +1,23 @@
+.random-btn {
+	box-shadow:inset 0px 39px 0px -24px #100ea7;
+	background-color:#000281;
+	border-radius:4px;
+	border:1px solid #846ff8;
+	display:inline-block;
+	cursor:pointer;
+	color:#d1d1d1;
+	font-family:Arial;
+	font-size:15px;
+	padding:8px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2e00ad;
+    margin-bottom: 30px;
+}
+
+.random-btn:hover {
+	background-color:#000cb1;
+}
+.random-btn:active {
+	position:relative;
+	top:1px;
+}
